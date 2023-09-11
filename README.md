@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" />
@@ -33,36 +33,6 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" />
-  <img src="https://img.icons8.com/color/48/000000/ui-ux-design.png" alt="UI/UX Design" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="UI/UX Design" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
-  <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" />
-</p>
-
-## PROJECTS
-**Fresh Hire**
-- Built a platform for Freshers to get hired by early-stage startups and MNCs.
-- Solves the problem of Experience mismatch in LinkedIn and bridges the gap between Startups and deserving candidates.
-- Built using MongoDB, Express.js, React.js, Node.js.
-
-**Crypto-watch**
-- Developed responsive user interfaces using HTML5, CSS3, JavaScript, and ReactJS, for users to fetch live data on crypto-currencies to alter their investment planning.
-- Solves the problem of providing live and accurate pricing of Crypto-currencies.
-
-**Panchmi Associates Landing Page**
-- Built a product landing page for the client using MERN stack.
-- Integrated Admin dashboard feature with Authorization and Authentication.
-- Designed and Integrated Backend APIs with secure routing.
-
-**Personal Blogging Site**
-- Designed and implemented a Personal Blogging site.
-- Blogging site built to share my ideas and thoughts on current technological trends.
-- Built using MongoDB, Node.js, Express.js, React.js, and Bootstrap.
-
-## EDUCATION
-- Bachelors of Engineering (Electronics Engineering) – Bangalore Institute of Technology, Bengaluru (2019-2023)
-    - **Percentage**: 80%
-- 12th Standard - Kendriya Vidyalaya, Bengaluru (2018-2019)
-    - **Percentage**: 84%
-
-## GITHUB
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me%20on%20GitHub-black?style=social&logo=github)](https://github.com/Anirudhmadhavkulkarni9094)
+  <img src="https://img.icons8.com/color/48/000000
