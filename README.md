@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" />
@@ -33,6 +33,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="UI/UX Design" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
   <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" />
 </p>
