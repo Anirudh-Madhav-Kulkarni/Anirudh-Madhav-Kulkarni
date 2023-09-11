@@ -20,11 +20,23 @@
     - Developed responsive design for front-end using Bootstrap and React.js.
 
 ## TECHNICAL SKILLS
-- **Programming Languages**: C/C++, Java.
-- **Web Frameworks**: JavaScript, Bootstrap, React.js, Node.js, Express.js, Astro.js, Material UI.
-- **Other Tech**: HTML5, CSS3, Rest API, Git, NPM, UI/UX Design, Spring Boot, Hibernate.
-- **Databases**: MySQL, MongoDB.
-- **Coursework**: Data structures and algorithms, AWS cloud practitioner, OOPs, RDBMS, Operating System.
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" />
+  <img src="https://img.icons8.com/color/48/000000/ui-ux-design.png" alt="UI/UX Design" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
+  <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" />
+</p>
 
 ## PROJECTS
 **Fresh Hire**
