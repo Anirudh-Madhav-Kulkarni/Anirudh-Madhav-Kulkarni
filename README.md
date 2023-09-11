@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
