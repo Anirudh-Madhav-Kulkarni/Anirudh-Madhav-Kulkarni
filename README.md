@@ -1,43 +1,56 @@
 <h1 align="center">Hi there, I'm Anirudh Madhav Kulkarni 👋</h1>
 <h3 align="center">Passionate Frontend Developer | Bangalore, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-madhav-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-madhav-kulkarni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh-madhav-kulkarni" alt="anirudh-madhav-kulkarni" /></a> </p>
-
-- 🔭 I’m currently working on **building my portfolio website**
-
-- 🌱 I’m currently learning **React.js and Node.js**
-
-- 👨‍💻 You can find all of my projects at [https://github.com/Anirudhmadhavkulkarni9094](https://github.com/Anirudhmadhavkulkarni9094)
-
-- 💬 Ask me about **Data Structures & Algorithms**
-
-- 📫 Reach out to me at **Anirudhkulkarni9094@gmail.com**
-
-- ⚡ Fun fact: **I like to think I'm funny 😎🤣**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anirudh-madhav-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-madhav-kulkarni" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anirudh9094" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anirudh9094" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anirudhkulkarni9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anirudhkulkarni9094" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anirudhkulkarni9094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudhkulkarni9094" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/anirudhkulkarni9094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="anirudhkulkarni9094" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:Anirudh.madhav.kulkarni@gmail.com"><img src="https://img.shields.io/badge/Email-Anirudh.madhav.kulkarni%40gmail.com-blue" alt="Email" /></a>
+  <a href="tel:7899416499"><img src="https://img.shields.io/badge/Phone-7899416499-green" alt="Phone" /></a>
+  <a href="https://www.linkedin.com/in/anirudhmadhavkulkarni/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue" alt="LinkedIn" /></a>
+  <a href="https://anirudh-kulkarni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Check%20out%20my%20work-brightgreen" alt="Portfolio" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Anirudhmadhavkulkarni9094&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh-madhav-kulkarni&show_icons=true&locale=en&layout=compact" alt="anirudh-madhav-kulkarni" /></p>
+## EXPERIENCE
+- **Freelancing, Bangalore** | AUG 2023 - Present
+    - Developed two full-stack applications to promote a client's company through website-based marketing initiatives, including Enquiry feature, Admin authentication, and authorization with Admin dashboard.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anirudh-madhav-kulkarni&show_icons=true&locale=en" alt="anirudh-madhav-kulkarni" /></p>
+- **Full Stack Web Development Intern, Sain informatics, Bangalore** | AUG 2022 – SEP 2022
+    - Designed and implemented a Crypto-tracking website.
+    - Designed and Integrated APIs to fetch data from External APIs using Express.js and axios.
+    - Developed responsive design for front-end using Bootstrap and React.js.
+
+## TECHNICAL SKILLS
+- **Programming Languages**: C/C++, Java.
+- **Web Frameworks**: JavaScript, Bootstrap, React.js, Node.js, Express.js, Astro.js, Material UI.
+- **Other Tech**: HTML5, CSS3, Rest API, Git, NPM, UI/UX Design, Spring Boot, Hibernate.
+- **Databases**: MySQL, MongoDB.
+- **Coursework**: Data structures and algorithms, AWS cloud practitioner, OOPs, RDBMS, Operating System.
+
+## PROJECTS
+**Fresh Hire**
+- Built a platform for Freshers to get hired by early-stage startups and MNCs.
+- Solves the problem of Experience mismatch in LinkedIn and bridges the gap between Startups and deserving candidates.
+- Built using MongoDB, Express.js, React.js, Node.js.
+
+**Crypto-watch**
+- Developed responsive user interfaces using HTML5, CSS3, JavaScript, and ReactJS, for users to fetch live data on crypto-currencies to alter their investment planning.
+- Solves the problem of providing live and accurate pricing of Crypto-currencies.
+
+**Panchmi Associates Landing Page**
+- Built a product landing page for the client using MERN stack.
+- Integrated Admin dashboard feature with Authorization and Authentication.
+- Designed and Integrated Backend APIs with secure routing.
+
+**Personal Blogging Site**
+- Designed and implemented a Personal Blogging site.
+- Blogging site built to share my ideas and thoughts on current technological trends.
+- Built using MongoDB, Node.js, Express.js, React.js, and Bootstrap.
+
+## EDUCATION
+- Bachelors of Engineering (Electronics Engineering) – Bangalore Institute of Technology, Bengaluru (2019-2023)
+    - **Percentage**: 80%
+- 12th Standard - Kendriya Vidyalaya, Bengaluru (2018-2019)
+    - **Percentage**: 84%
+
+## GITHUB
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me%20on%20GitHub-black?style=social&logo=github)](https://github.com/Anirudhmadhavkulkarni9094)
